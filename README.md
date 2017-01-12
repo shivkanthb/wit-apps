@@ -1,22 +1,24 @@
 ## Wit Apps 
 
-> A list of open/public wit apps
+> A list of open/public WIT apps (Wit.ai Instances)
 
 Please feel free to pull requests or email me (shivkanthb@gmail.com) to add links.
 
 ## Categories
 
- - [General](#)
- - [Internet of things](#)
- - [Delivery/Orders](#)
- - [Travel](#)
- - [Booking](#)
- - [Weather](#)
+ - [General](#general)
+ - [Internet of things](#internet-of-things)
+ - [Delivery/Orders](#deliveryorders)
+ - [Travel](#travel)
+ - [Booking](#booking)
+ - [Weather](#weather)
 
 
 ### General
 
 * [Set Alarm](https://wit.ai/ar7hur/wave) by [@ar7hur](https://github.com/ar7hur)
+* [Wit Quickstart](https://wit.ai/ar7hur/quickstart/stories) by [@ar7hur](https://github.com/ar7hur)
+
 
 ### Internet of things
 
@@ -38,9 +40,11 @@ Please feel free to pull requests or email me (shivkanthb@gmail.com) to add link
 
 * [Table Booking](https://wit.ai/ar7hur/OpenTable) by [@ar7hur](https://github.com/ar7hur)
 
+
 ### Weather
 
 * [Wit Quickstart](https://wit.ai/ar7hur/quickstart/stories) by [@ar7hur](https://github.com/ar7hur)
+
 
 
 #### Contributing
