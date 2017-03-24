@@ -29,6 +29,7 @@ Please feel free to pull requests or email me (shivkanthb@gmail.com) to add link
 
 * [Barista Bot](https://wit.ai/o0rebelious0o/Barista-Bot) by [@o0rebelious0o](https://github.com/o0rebelious0o)
 * [Pizza delivery](https://wit.ai/goleksiak/Instance%202055-401) by [@goleksiak](https://github.com/goleksiak)
+* [Pizza Order](https://wit.ai/shivkanthb/pizza-test) by [@shivkanthb](https://github.com/shivkanthb)
 
 
 ### Travel
